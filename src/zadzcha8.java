@@ -5,17 +5,22 @@ rand.nextInt() ). Это число – количесво денег в руб�
 import java.util.Random;
 public class zadzcha8 {
     public static void main (String[] args) {
-        Random rand = new Random();
-        int num = rand.nextInt(1000);
+        //Random rand = new Random();
+       // int num = rand.nextInt(1000);
+       int num=31;
         int i = num%10;
-        if (i==0)
+        if (num >5 && num <21)
+            System.out.println(num + "рублей");
+        else  if (i==0)
         System.out.println(num + " рублей");
         else if (i==1)
             System.out.println(num + "рубль");
-        else if (i>2 && i<5)
+        else if (i>1 && i<5)
             System.out.println(num + "рубля");
-        else if (i>5)
+        else if (i>4)
             System.out.println(num + "рублей");
+
+
         //ублей");
 
     }
