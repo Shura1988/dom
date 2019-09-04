@@ -19,8 +19,9 @@ public class Zadanie5 {
         System.out.println(Objects.equals(num1, num2));
         System.out.println(Objects.equals(num2, num3));
         System.out.println(Objects.equals(num3, num4));
-
-
+        System.out.println(Objects.equals(num1, num4));
+        System.out.println(Objects.equals(num2, num4));
+        System.out.println(Objects.equals(num1, num3));
         in.close();
 
     }
