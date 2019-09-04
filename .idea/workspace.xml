@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8870f290-c542-4f6d-8a70-ecfd05589908" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/zadznie7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadzcha8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dom/Zadanie5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dom/Zadanie5.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,20 +17,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/zadznie7.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/zadzcha8.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="21" selection-start-column="21" selection-end-column="21" />
+            <state relative-caret-position="204">
+              <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+              <folding>
+                <element signature="e#0#485#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Zadanie5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="85">
+              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -62,12 +64,14 @@
         <option value="$PROJECT_DIR$/src/lesson3.java" />
         <option value="$PROJECT_DIR$/src/zadanie6.java" />
         <option value="$PROJECT_DIR$/src/Zadanie5.java" />
+        <option value="$PROJECT_DIR$/src/zadznie7.java" />
+        <option value="$PROJECT_DIR$/src/zadzcha8.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="345" />
-    <option name="y" value="51" />
+    <option name="x" value="287" />
+    <option name="y" value="66" />
     <option name="width" value="1035" />
     <option name="height" value="632" />
   </component>
@@ -121,14 +125,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Zadanie5">
-    <configuration name="DopZadachiBlinov1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DopZadachiBlinov1" />
-      <module name="dom" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.zadzcha8">
     <configuration name="Zadanie5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Zadanie5" />
       <module name="dom" />
@@ -143,13 +140,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadanie3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zadanie3" />
-      <module name="dom" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="zadanie6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zadanie6" />
       <module name="dom" />
@@ -157,13 +147,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="zadzcha8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadzcha8" />
+      <module name="dom" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zadznie7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadznie7" />
+      <module name="dom" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zadzcha8" />
+        <item itemvalue="Application.zadznie7" />
         <item itemvalue="Application.Zadanie5" />
         <item itemvalue="Application.zadanie6" />
         <item itemvalue="Application.ZadanieDop1" />
-        <item itemvalue="Application.zadanie3" />
-        <item itemvalue="Application.DopZadachiBlinov1" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +224,21 @@
       <option name="project" value="LOCAL" />
       <updated>1567597239441</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Задачи методички 5 c dorabotkami">
+      <created>1567597387205</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1567597387205</updated>
+    </task>
+    <task id="LOCAL-00008" summary="zadanie 7">
+      <created>1567599763902</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567599763902</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TodoView">
@@ -233,7 +251,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="345" y="51" width="1035" height="632" extended-state="0" />
+    <frame x="287" y="66" width="1035" height="632" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29641026" />
@@ -245,15 +263,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49846154" weight="0.37227723" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4974359" visible="true" weight="0.372" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3289225" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3289225" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50256413" side_tool="true" visible="true" weight="0.308" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.4974359" visible="true" weight="0.308" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32627118" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50256413" side_tool="true" weight="0.372" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.4974359" weight="0.308" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.326" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -337,7 +355,9 @@
     <MESSAGE value="zadzcha 5 metodichki" />
     <MESSAGE value="zadzcha 6 metodichki" />
     <MESSAGE value="Задачи методички" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задачи методички" />
+    <MESSAGE value="Задачи методички 5 c dorabotkami" />
+    <MESSAGE value="zadanie 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="zadanie 7" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/gitignor">
@@ -378,27 +398,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/zadanie6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#182#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="124">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/zadznie7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        <state relative-caret-position="204">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Zadanie5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="85">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/zadzcha8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#485#0" expanded="true" />
           </folding>
         </state>
       </provider>
