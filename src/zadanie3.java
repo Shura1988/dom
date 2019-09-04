@@ -14,8 +14,8 @@ public class zadanie3 {
         System.out.println( m + " минут " + sec + " секунд" );
         int h=(m-min)/60;
         System.out.println(h + " часов " + min + " минут " + sec + " секунд" );
-        int d = h%24;
-        int den = (h-d)/24;
+        int den = h/24;
+        h = h%24;
         System.out.println(den + " дней " + h + " часов " + min + " минут " + sec + " секунд" );
         int ned =den/7;
         System.out.println(ned  + " недель " + den + " дней " + h + " часов " + min + " минут " + sec + " секунд" );
