@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8870f290-c542-4f6d-8a70-ecfd05589908" name="Default Changelist" comment="zadanie 10">
-      <change afterPath="$PROJECT_DIR$/src/zadanie11.java" afterDir="false" />
+    <list default="true" id="8870f290-c542-4f6d-8a70-ecfd05589908" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadanie11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zadanie11.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,8 +41,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/zadanie11.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="66" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
+            <state relative-caret-position="153">
+              <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
               <folding>
                 <element signature="e#0#152#0" expanded="true" />
               </folding>
@@ -285,7 +285,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567656304154</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="zadanie 11">
+      <created>1567661173851</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1567661173872</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView">
@@ -299,7 +306,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="154" y="1" width="1176" height="711" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25896057" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -408,7 +414,8 @@
     <MESSAGE value="zadanie 8 c корректировкой" />
     <MESSAGE value="zadanie 9" />
     <MESSAGE value="zadanie 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="zadanie 10" />
+    <MESSAGE value="zadanie 11" />
+    <option name="LAST_COMMIT_MESSAGE" value="zadanie 11" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/gitignor">
@@ -500,8 +507,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/zadanie11.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="66" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
+        <state relative-caret-position="153">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
           <folding>
             <element signature="e#0#152#0" expanded="true" />
           </folding>
