@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8870f290-c542-4f6d-8a70-ecfd05589908" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/zadanie12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dom/META-INF/dom.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zadznie10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zadznie10.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,9 +50,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.zadznie10">
+  <component name="RunManager" selected="Application.zadanie12">
     <configuration name="zadanie11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zadanie11" />
+      <module name="dom" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zadanie12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadanie12" />
       <module name="dom" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,20 +86,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadznie7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zadznie7" />
-      <module name="dom" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.zadznie10" />
+        <item itemvalue="Application.zadanie12" />
         <item itemvalue="Application.zadanie11" />
+        <item itemvalue="Application.zadznie10" />
         <item itemvalue="Application.zadanie9" />
         <item itemvalue="Application.zadzcha8" />
-        <item itemvalue="Application.zadznie7" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567661173872</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="zadanie 11 c изменением">
+      <created>1567679886432</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1567679886432</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TodoView">
@@ -257,7 +263,8 @@
     <MESSAGE value="zadanie 9" />
     <MESSAGE value="zadanie 10" />
     <MESSAGE value="zadanie 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="zadanie 11" />
+    <MESSAGE value="zadanie 11 c изменением" />
+    <option name="LAST_COMMIT_MESSAGE" value="zadanie 11 c изменением" />
   </component>
   <component name="masterDetails">
     <states>
