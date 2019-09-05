@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8870f290-c542-4f6d-8a70-ecfd05589908" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/zadznie10.java" afterDir="false" />
+    <list default="true" id="8870f290-c542-4f6d-8a70-ecfd05589908" name="Default Changelist" comment="zadanie 10">
+      <change afterPath="$PROJECT_DIR$/src/zadanie11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,34 +18,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/zadzcha8.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="45" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="45" />
-              <folding>
-                <element signature="e#0#485#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Zadanie5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/zadanie9.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="61" selection-start-line="7" selection-start-column="8" selection-end-line="13" selection-end-column="61" />
+            <state relative-caret-position="289">
+              <caret line="17" column="55" selection-start-line="12" selection-start-column="8" selection-end-line="17" selection-end-column="55" />
               <folding>
                 <element signature="e#0#590#0" expanded="true" />
               </folding>
@@ -53,11 +29,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/zadznie10.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="68">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/zadanie11.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="66" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
+              <folding>
+                <element signature="e#0#152#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -89,12 +77,13 @@
         <option value="$PROJECT_DIR$/src/zadzcha8.java" />
         <option value="$PROJECT_DIR$/src/zadanie9.java" />
         <option value="$PROJECT_DIR$/src/zadznie10.java" />
+        <option value="$PROJECT_DIR$/src/zadanie11.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="134" />
-    <option name="y" value="10" />
+    <option name="x" value="154" />
+    <option name="y" value="1" />
     <option name="width" value="1176" />
     <option name="height" value="711" />
   </component>
@@ -148,9 +137,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.zadznie10">
-    <configuration name="Zadanie5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadanie5" />
+  <component name="RunManager" selected="Application.zadanie11">
+    <configuration name="zadanie11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadanie11" />
       <module name="dom" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -186,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zadanie11" />
         <item itemvalue="Application.zadznie10" />
         <item itemvalue="Application.zadanie9" />
         <item itemvalue="Application.zadzcha8" />
         <item itemvalue="Application.zadznie7" />
-        <item itemvalue="Application.Zadanie5" />
       </list>
     </recent_temporary>
   </component>
@@ -289,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567629951587</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="zadanie 10">
+      <created>1567656304154</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1567656304154</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView">
@@ -302,7 +298,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="363" y="267" width="1176" height="711" extended-state="0" />
+    <frame x="154" y="1" width="1176" height="711" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25896057" />
@@ -411,7 +407,8 @@
     <MESSAGE value="zadanie 8" />
     <MESSAGE value="zadanie 8 c корректировкой" />
     <MESSAGE value="zadanie 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="zadanie 9" />
+    <MESSAGE value="zadanie 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="zadanie 10" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/gitignor">
@@ -464,9 +461,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/zadznie10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/zadzcha8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="51">
           <caret line="6" column="45" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="45" />
           <folding>
             <element signature="e#0#485#0" expanded="true" />
@@ -476,8 +480,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Zadanie5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="31" />
+        <state relative-caret-position="112">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -486,18 +490,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/zadanie9.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="61" selection-start-line="7" selection-start-column="8" selection-end-line="13" selection-end-column="61" />
+        <state relative-caret-position="289">
+          <caret line="17" column="55" selection-start-line="12" selection-start-column="8" selection-end-line="17" selection-end-column="55" />
           <folding>
             <element signature="e#0#590#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/zadznie10.java">
+    <entry file="file://$PROJECT_DIR$/src/zadanie11.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="187">
+          <caret line="11" column="66" selection-start-line="11" selection-start-column="66" selection-end-line="11" selection-end-column="66" />
+          <folding>
+            <element signature="e#0#152#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
