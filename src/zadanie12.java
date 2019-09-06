@@ -5,15 +5,17 @@ public class zadanie12 {
         Scanner in = new Scanner(System.in);
         System.out.println("enter a four digit number : ");
         int n = in.nextInt();
-        int summ = 0;
-        int k = 1;
-        for (int i = 1; k <= n; i++) {
-            if (i % 3 == 0) {
-                summ += i;
-                System.out.print( summ + "  " );
+        int k = 0;
+        int sum = 0;
+        for (int i = 0; k <= n; i++) {
+            if (i % 3 == 0){
                 k++;
+                sum += i;
             }
+
         }
+         System.out.println("Сумма чисел кратных трем: " + sum);
+
         in.close();
 
 
