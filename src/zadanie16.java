@@ -34,7 +34,7 @@ Random namber = new Random();
         if (indexMin < indexMax) {
                 for (int i = indexMin  + 1; i < indexMax; i++)
                     summ += mass[i];
-            } else if (min > max) {
+            } else if (indexMin > indexMax) {
                 for (int i = indexMax + 1; i < indexMin; i++)
                     summ += mass[i];
             }
