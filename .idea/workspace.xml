@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8870f290-c542-4f6d-8a70-ecfd05589908" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zadanie16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8870f290-c542-4f6d-8a70-ecfd05589908" name="Default Changelist" comment="zadanie 16">
       <change beforePath="$PROJECT_DIR$/src/fge.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lesson4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -250,7 +248,21 @@
       <option name="project" value="LOCAL" />
       <updated>1567811142966</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="zadanie 16">
+      <created>1567857573866</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1567857573866</updated>
+    </task>
+    <task id="LOCAL-00022" summary="zadanie 16">
+      <created>1567857702963</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1567857702963</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TodoView">
@@ -307,7 +319,8 @@
     <MESSAGE value="zadanie 13" />
     <MESSAGE value="14" />
     <MESSAGE value="zadanie 15" />
-    <option name="LAST_COMMIT_MESSAGE" value="zadanie 15" />
+    <MESSAGE value="zadanie 16" />
+    <option name="LAST_COMMIT_MESSAGE" value="zadanie 16" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/dom3$zadanie15.ic" NAME="zadanie15 Coverage Results" MODIFIED="1567809083505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />

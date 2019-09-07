@@ -1,7 +1,6 @@
 
 /*Определите сумму элементов одномерного массива, расположенных между
 минимальным и максимальным значениями.*/
-
 import java.util.Random;
 public class zadanie16 {
 public static void main(String[] args) {
