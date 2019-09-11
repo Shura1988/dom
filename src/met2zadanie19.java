@@ -15,4 +15,12 @@ public class met2zadanie19 {
         }
             System.out.println("Колличество слов в строке  " + i);
     }
-}
+} //Альтернативный вариант
+/*StringTokenizer st = new StringTokenizer(str, " ,!.;");
+
+        List<String> wordsList = new ArrayList<>();
+
+        while (st.hasMoreTokens()) {
+            wordsList.add(st.nextToken());
+        }
+        wordsList.forEach(System.out::println);*/
