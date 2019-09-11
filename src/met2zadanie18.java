@@ -6,7 +6,7 @@ public class met2zadanie18 {
         String str = " Строковый литерал — это последовательность символов,заключенных в двойные кавычки.! ";
         int n = 0;
         char symbol;
-        for (int i = 0; i < str.length(); i++) {
+            for (int i=0; i<str.length(); i++){
             symbol = str.charAt(i);
             if (symbol == ',' || symbol == '.' || symbol == '-' || symbol == ' '|| symbol == '!') {
                 n++;

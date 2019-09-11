@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3973629e-f0e3-469d-9557-657c7bda8d0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/met2zadanie18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="3973629e-f0e3-469d-9557-657c7bda8d0f" name="Default Changelist" comment="metodichka 2: zadanie 18">
+      <change afterPath="$PROJECT_DIR$/src/met2zadanie19.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dom/zadanie16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dom/zadanie16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/met2zadanie18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/met2zadanie18.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/zadanie17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zadanie17.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,7 +39,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.met2zadanie19">
     <configuration name="met2zadanie18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="met2zadanie18" />
       <module name="dom" />
@@ -50,8 +47,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="met2zadanie19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="met2zadanie19" />
+      <module name="dom" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.met2zadanie19" />
         <item itemvalue="Application.met2zadanie18" />
       </list>
     </recent_temporary>
@@ -67,6 +72,14 @@
       <option name="presentableId" value="Default" />
       <updated>1568189501351</updated>
     </task>
+    <task id="LOCAL-00001" summary="metodichka 2: zadanie 18">
+      <created>1568190015263</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568190015263</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,10 +87,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="metodichka 2: zadanie 18" />
+    <option name="LAST_COMMIT_MESSAGE" value="metodichka 2: zadanie 18" />
   </component>
 </project>
