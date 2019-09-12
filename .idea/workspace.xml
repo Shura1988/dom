@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3973629e-f0e3-469d-9557-657c7bda8d0f" name="Default Changelist" comment="metodichka 2: zadanie 21">
+    <list default="true" id="3973629e-f0e3-469d-9557-657c7bda8d0f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/zadznie20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zadanie17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zadanie17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/met2zadanie19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/met2zadanie19.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +38,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.met2zadanie20">
+  <component name="RunManager" selected="Application.zadznie20">
     <configuration name="met2zadanie18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="met2zadanie18" />
       <module name="dom" />
@@ -59,6 +60,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="zadznie20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadznie20" />
+      <module name="dom" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="zadznie21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zadznie21" />
       <module name="dom" />
@@ -68,9 +76,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zadznie20" />
+        <item itemvalue="Application.met2zadanie19" />
         <item itemvalue="Application.met2zadanie20" />
         <item itemvalue="Application.zadznie21" />
-        <item itemvalue="Application.met2zadanie19" />
         <item itemvalue="Application.met2zadanie18" />
       </list>
     </recent_temporary>
@@ -107,7 +116,21 @@
       <option name="project" value="LOCAL" />
       <updated>1568234425557</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="metodichka 2: zadanie 21">
+      <created>1568239431598</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568239431598</updated>
+    </task>
+    <task id="LOCAL-00005" summary="zadanie 19 c dorabotkoy">
+      <created>1568240523190</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568240523190</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,6 +150,33 @@
     <MESSAGE value="metodichka 2: zadanie 19" />
     <MESSAGE value="metodichka 2: zadanie 18" />
     <MESSAGE value="metodichka 2: zadanie 21" />
-    <option name="LAST_COMMIT_MESSAGE" value="metodichka 2: zadanie 21" />
+    <MESSAGE value="zadanie 19 c dorabotkoy" />
+    <option name="LAST_COMMIT_MESSAGE" value="zadanie 19 c dorabotkoy" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zadznie20.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zadznie20.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/zadznie20.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="i" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
