@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3973629e-f0e3-469d-9557-657c7bda8d0f" name="Default Changelist" comment="" />
+    <list default="true" id="3973629e-f0e3-469d-9557-657c7bda8d0f" name="Default Changelist" comment="met2zadanie 20 c доп">
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zadanie2223.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +25,8 @@
   </component>
   <component name="ProjectId" id="1QgPw4FmH2SS8oaKVqPakhAQBgv" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last.edited.regexp" value="Sample Text" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -34,14 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.zadznie20">
-    <configuration name="met2zadanie18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="met2zadanie18" />
-      <module name="dom" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.zadanie2223">
     <configuration name="met2zadanie19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="met2zadanie19" />
       <module name="dom" />
@@ -49,8 +49,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="met2zadanie20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="met2zadanie20" />
+    <configuration name="zadanie22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadanie22" />
+      <module name="dom" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zadanie2223" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zadanie2223" />
       <module name="dom" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.zadanie2223" />
+        <item itemvalue="Application.zadanie22" />
         <item itemvalue="Application.zadznie20" />
         <item itemvalue="Application.zadznie21" />
         <item itemvalue="Application.met2zadanie19" />
-        <item itemvalue="Application.met2zadanie20" />
-        <item itemvalue="Application.met2zadanie18" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568362284161</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="met2zadanie 20 c доп">
+      <created>1568362422961</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1568362422961</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
