@@ -15,10 +15,10 @@ import java.util.regex.Pattern;
 
 public class zadanie2223 {
     public static void main(String[] args) {
-        String str = "String  0x98ff method <p id=p1>, in 0x5fff Java with <p id=p1> examples 0x123f. ";
+        String str = "String  0x98ff method <Я понял, что>, in 0x5fff Java with </*Ты имел ввиду> examples 0x123f. ";
         System.out.println("Исходная строка : " + str);
         System.out.println();
-        System.out.println(" С заменой рег. выражений: " + str.replace("<p id=p1>", "<p>"));
+        System.out.println(" С заменой рег. выражений: " + str.replaceAll(("\\<(/?[^\\>]+)\\>"), "<все ОК>"));
         System.out.println();
         Pattern reg = Pattern.compile("0x[A-Fa-f0-9]{1,4}");
         Matcher m = reg.matcher(str);
