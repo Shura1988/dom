@@ -12,7 +12,7 @@ public class zadznie20 {
             bykvi += slova[i].substring(slova[i].length()-1 );
         }
 
-        System.out.println(str);
-        System.out.println(bykvi);
+        System.out.println("Исходная строка: " + str);
+        System.out.println("Последние буквы: " +bykvi);
 }
 }
