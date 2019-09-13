@@ -4,7 +4,7 @@
     <list default="true" id="3973629e-f0e3-469d-9557-657c7bda8d0f" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/zadznie20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/met2zadanie19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/met2zadanie19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/zadznie21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zadznie21.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,9 +77,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.zadznie20" />
+        <item itemvalue="Application.zadznie21" />
         <item itemvalue="Application.met2zadanie19" />
         <item itemvalue="Application.met2zadanie20" />
-        <item itemvalue="Application.zadznie21" />
         <item itemvalue="Application.met2zadanie18" />
       </list>
     </recent_temporary>
@@ -130,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568240523190</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="met2zadanie 19 c dorabotkoy">
+      <created>1568268046884</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1568268046885</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,28 +158,10 @@
     <MESSAGE value="metodichka 2: zadanie 18" />
     <MESSAGE value="metodichka 2: zadanie 21" />
     <MESSAGE value="zadanie 19 c dorabotkoy" />
-    <option name="LAST_COMMIT_MESSAGE" value="zadanie 19 c dorabotkoy" />
+    <MESSAGE value="met2zadanie 19 c dorabotkoy" />
+    <option name="LAST_COMMIT_MESSAGE" value="met2zadanie 19 c dorabotkoy" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zadznie20.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zadznie20.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/zadznie20.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="i" />
