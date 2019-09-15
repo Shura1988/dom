@@ -9,8 +9,6 @@
 
 package Time;
 
-import java.util.Objects;
-
 public class Times {
     private  int hour;
     private  int min;
@@ -20,14 +18,28 @@ public class Times {
         this.hour=h;
         this.min=m;
         this.sek=s;
+
     }
      Times(int Alltimesek){
         this.sek=Alltimesek;
     }
-    public String TimeShow()
-    {
-        return "Time(" +"HH:MI:SS  :  " + hour +":"+ min +":"+ sek +")";
-    }
+     public String TimeShow() {
+        int sekund = sek;
+        if (sekund > 60) {
+            int sek = (sekund) % 60;
+            int min = (sekund - sek) / 60;
+            this.sek = sek;
+            this.min += min;
+            int chas = (min) % 60;
+            int hour = (this.min  - chas) / 60;
+            min += chas;
+            this.min = min;
+           this.hour += hour;
+
+        }
+         return "Time(" + "HH:MI:SS  :  " + hour + ":" + min + ":" + sek + ")";
+     }
+
        public int Alltimesek(){
         return  sek ;
     }

@@ -11,8 +11,8 @@ package Time;
 
 public class TimeRun {
     public static void main(String[] args) {
-        Times time1 = new Times(1, 10, 12);
-        Times time2 = new Times(3212);
+        Times time1 = new Times(3, 183, 183);
+        Times time2 = new Times(21963);
         System.out.println(time1.TimeShow());
         System.out.println(time2.AlltimesekShow());
         System.out.println(time1.equals(time2));
