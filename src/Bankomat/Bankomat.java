@@ -20,6 +20,7 @@ public class Bankomat {
     private static int Allcash;//общкк колличество денег
     private static int addmaney;
     private static int Outmaney;
+    public static int i;
 
     Bankomat(int kolnam20, int kolnam50, int kolnam100) {
             this.kolnam20=kolnam20;
@@ -39,21 +40,30 @@ public class Bankomat {
       System.out.println("Стало денег в банкомате  после зачисления  " + Allcash);
    }
         public static boolean Outmaney(int cash) {
-        Allcash -=cash;
-            if (cash % 10 != 00 ||  cash<20) {
-                System.out.println("Некорректная сумма");
-                return false;
-            } else {
-                if (Allcash >= cash) {
-                    System.out.println("Возьмите деньги;" + " Сумма остатка в кассе : " + Allcash);
-                    return true;
-                } else {
 
-                    System.out.println("Недостаточно средств");
-                    return  false;
+            if (cash % 10 != 0 || cash < 20) {
+                System.out.println("Некорректная сумма");
+
+            } else if (cash >= 20) {
+                nam100 = (cash - (cash % 100));
+                kolnam100 = nam100 / 100;
+                kolnam50 = (cash % 100) / 50;
+                kolnam20 = ((cash % 100)-kolnam50*nam50)/ 20;
+                if ((cash % 100)-kolnam50*nam50-kolnam20*nam20 ==10) {
+                    System.out.println("Некорректная сумма");
+                    return false;
                 }
+                Allcash -= cash;
+                System.out.println("Купюрами 100 : " + kolnam100 + "Купюрами 50 : " + kolnam50 +
+                        "Купюрами 20 : " + kolnam20);
+                System.out.println("Возьмите деньги;" + " Сумма остатка в кассе : " + Allcash);
+                return true;
+            }  else if (cash > Allcash) {
+                System.out.println("Недостаточно средств");
             }
+            return false;
         }
+
 
         /*int naminal;
             naminal = nam100 % 100;
