@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3973629e-f0e3-469d-9557-657c7bda8d0f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/kalkulaytor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Bankomat/Bankomat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bankomat/Bankomat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bankomat/BankomatCash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bankomat/BankomatCash.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +31,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last.edited.regexp" value="Sample Text" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Bankomat" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -69,6 +76,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="kalkulaytor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kalkulaytor" />
+      <module name="dom" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="zadanie22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="zadanie22" />
       <module name="dom" />
@@ -83,20 +97,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="zadznie20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="zadznie20" />
-      <module name="dom" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.BankomatCash" />
+        <item itemvalue="Application.kalkulaytor" />
         <item itemvalue="Application.TimeRun" />
         <item itemvalue="Application.zadanie2223" />
         <item itemvalue="Application.zadanie22" />
-        <item itemvalue="Application.zadznie20" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568702422005</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="met2zadanie 25 c 1 dop">
+      <created>1568714284566</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1568714284566</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -244,38 +258,10 @@
     <MESSAGE value="met2zadanie 24" />
     <MESSAGE value="met2zadanie 24 c dopolneniem" />
     <MESSAGE value="met2zadanie 25" />
-    <option name="LAST_COMMIT_MESSAGE" value="met2zadanie 25" />
+    <MESSAGE value="met2zadanie 25 c 1 dop" />
+    <option name="LAST_COMMIT_MESSAGE" value="met2zadanie 25 c 1 dop" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Bankomat/Bankomat.java</url>
-          <line>48</line>
-          <option name="timeStamp" value="157" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Bankomat/Bankomat.java</url>
-          <line>49</line>
-          <option name="timeStamp" value="158" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Bankomat/Bankomat.java</url>
-          <line>50</line>
-          <option name="timeStamp" value="159" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Bankomat/Bankomat.java</url>
-          <line>51</line>
-          <option name="timeStamp" value="160" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Bankomat/Bankomat.java</url>
-          <line>52</line>
-          <option name="timeStamp" value="161" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
         <watch expression="i" />
