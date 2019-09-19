@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3973629e-f0e3-469d-9557-657c7bda8d0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Technic/Fridge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Technic/Kitchen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Technic/Pribori.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Technic/RunTechnik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Technic/RunTechnik.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Technic/Technik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Technic/Technik.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Technic/room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Technic/room.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -256,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568836139964</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="26 vrode rabotaet">
+      <created>1568889163723</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1568889163723</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -287,7 +288,8 @@
     <MESSAGE value="met2zadanie 25 c 1 dop" />
     <MESSAGE value="met2zadanie 25 c 2 dop" />
     <MESSAGE value="zadanie 26 nugns pomosch..(" />
-    <option name="LAST_COMMIT_MESSAGE" value="zadanie 26 nugns pomosch..(" />
+    <MESSAGE value="26 vrode rabotaet" />
+    <option name="LAST_COMMIT_MESSAGE" value="26 vrode rabotaet" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

@@ -26,7 +26,7 @@ abstract class HomeAppliences implements Technik{
     }
 public  String toString(){
     return "Устройство  " + name + "    Брэнд   " + brand + "   Его мощность   " + power + "Вт  " + "Вкл/Вкл  " +
-            On + "   Предназначен для кухни   "+  "Назначение   " + naznachenie;
+            On + "   Предназначен для комнаты   "+  "Назначение   " + naznachenie;
 }
 }
 
