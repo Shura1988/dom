@@ -3,8 +3,14 @@
 Иерархия должна иметь хотя бы три уровня.*/
 
 package Technic;
- public abstract class Technik {
-     private String name;
+ public interface Technik {
+     void On();
+     void Off();
+
+
+
+     /*
+     public String name;
      private String brand;
      private int  power;
      private boolean On;
@@ -19,10 +25,7 @@ package Technic;
 
      public void OnOf(boolean On) {
          System.out.println("Устройство  " + name + " Брэнд " + brand + " Его мощность " + power + "Включено" + On);
-
-
      }
-
      public String getName() {
          return name;
      }
@@ -53,7 +56,7 @@ package Technic;
 
      public void setOn(boolean on) {
          On = on;
-     }
+     }*/
  }
 
 
