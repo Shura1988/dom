@@ -1,4 +1,4 @@
-package Technic;
+package technic;
 
 public class Fridge extends HomeAppliences implements Technik {
     private String deistvie;
@@ -18,5 +18,5 @@ public class Fridge extends HomeAppliences implements Technik {
 
     public  String toString() {
         return "Устройство  " + name + "    Брэнд   " + brand + "   Его мощность   " + power + "Вт" + "Вкл/Вкл  " +
-                On + "   Предназначен для кухни   " + "Назначение   " + naznachenie + " Действие  " + deistvie;
+                on + "   Предназначен для кухни   " + "Назначение   " + naznachenie + " Действие  " + deistvie;
     }}

@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="3973629e-f0e3-469d-9557-657c7bda8d0f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Technic/Fridge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/technic/Fridge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Technic/RunTechnik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/technic/RunTechnik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Technic/Technik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/technic/Technik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Technic/room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/technic/room.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +20,7 @@
         <option value="Interface" />
         <option value="Enum" />
         <option value="Class" />
+        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -64,11 +69,11 @@
       </method>
     </configuration>
     <configuration name="RunTechnik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Technic.RunTechnik" />
+      <option name="MAIN_CLASS_NAME" value="technic.RunTechnik" />
       <module name="dom" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Technic.*" />
+          <option name="PATTERN" value="technic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -257,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568889163723</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="26 vrode rabotaet">
+      <created>1568907693122</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1568907693122</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
