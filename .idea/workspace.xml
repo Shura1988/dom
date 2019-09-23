@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3973629e-f0e3-469d-9557-657c7bda8d0f" name="Default Changelist" comment="zadanie 27">
-      <change afterPath="$PROJECT_DIR$/src/annotation/MyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/annotation/RunMyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/annotation/Version.java" afterDir="false" />
+    <list default="true" id="3973629e-f0e3-469d-9557-657c7bda8d0f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/box/Box.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kreditcard/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kreditcard/CreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kreditcard/CreditRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kreditcard/CreditRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kreditcard/Zarplata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kreditcard/Zarplata.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +58,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RunMyService">
+  <component name="RunManager" selected="Application.CreditRun">
     <configuration name="BankomatCash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bankomat.BankomatCash" />
       <module name="dom" />
@@ -113,8 +114,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RunMyService" />
         <item itemvalue="Application.CreditRun" />
+        <item itemvalue="Application.RunMyService" />
         <item itemvalue="Application.RunTechnik" />
         <item itemvalue="Application.BankomatCash" />
         <item itemvalue="Application.kalkulaytor" />
@@ -296,7 +297,21 @@
       <option name="project" value="LOCAL" />
       <updated>1568983504024</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="ANNOTACIYA">
+      <created>1569100872986</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1569100872986</updated>
+    </task>
+    <task id="LOCAL-00025" summary="ANNOTACIYA 1">
+      <created>1569101036687</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1569101036687</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -330,7 +345,9 @@
     <MESSAGE value="26 vrode rabotaet" />
     <MESSAGE value="26" />
     <MESSAGE value="zadanie 27" />
-    <option name="LAST_COMMIT_MESSAGE" value="zadanie 27" />
+    <MESSAGE value="ANNOTACIYA" />
+    <MESSAGE value="ANNOTACIYA 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="ANNOTACIYA 1" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>

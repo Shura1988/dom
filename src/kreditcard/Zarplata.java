@@ -1,6 +1,6 @@
 package kreditcard;
 
-public class Zarplata extends CreditCard implements Credi {
+public class Zarplata extends CreditCard {
     protected Boolean zp;
 
     Zarplata(String bank, int namber, String material, boolean on, boolean zp) {
@@ -18,8 +18,9 @@ public class Zarplata extends CreditCard implements Credi {
         zp = false;
     }
 
+    @Override
     public String toString() {
-        return "Карта Банка " + bank + " Номер карты   " + namber + "  Материал  " +  material  + "   Вам дали/не дали кредит  " + on +
+        return "Карта Банка " + bank + " Номер карты   " + namber + "  Материал  " + material + "   Вам дали/не дали кредит  " + on +
                 "  Пришли деньги  " + zp;
     }
 }
