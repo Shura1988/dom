@@ -12,7 +12,6 @@ public class City {
     City() {
         this.city = town.next();
         info = new Info();
-
     }
 
     public String getCity() {
@@ -23,7 +22,6 @@ public class City {
         this.city = city;
 
     }
-
     public class Info {
         private int avenue;
         private int street;
@@ -36,13 +34,11 @@ public class City {
             this.street = Integer.parseInt(town.next());
             System.out.println(" Колличество площадей : ");
             this.area = Integer.parseInt(town.next());
-
         }
 
         public void TownInfo() {
             System.out.println("В городе  " + getCity() + " проспектов " + getavenue() + " улиц " + getstreet() + " площадей " + getarea());
         }
-
 
         public int getavenue() {
             return avenue;
