@@ -3,10 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="3973629e-f0e3-469d-9557-657c7bda8d0f" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/box/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/city/blinov/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/city/blinov/CityRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/blinov/Abonent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/blinov/MobilMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/blinov/too/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/blinov/too/Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kreditcard/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kreditcard/CreditCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kreditcard/CreditRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kreditcard/CreditRun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/kreditcard/Zarplata.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kreditcard/Zarplata.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,9 +23,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
         <option value="AnnotationType" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -35,6 +38,10 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last.edited.regexp" value="Sample Text" />
@@ -58,13 +65,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CreditRun">
-    <configuration name="BankomatCash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bankomat.BankomatCash" />
+  <component name="RunManager" selected="Application.CityRun">
+    <configuration name="CityRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="city.blinov.CityRun" />
       <module name="dom" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bankomat.*" />
+          <option name="PATTERN" value="city.blinov.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,19 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunMyService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="annotation.RunMyService" />
-      <module name="dom" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RunTechnik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="technic.RunTechnik" />
+    <configuration name="MobilMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.blinov.MobilMain" />
       <module name="dom" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="technic.*" />
+          <option name="PATTERN" value="test.blinov.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,8 +105,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="kalkulaytor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="kalkulaytor" />
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.blinov.too.Run" />
+      <module name="dom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.blinov.too.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunMyService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="annotation.RunMyService" />
       <module name="dom" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -114,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CityRun" />
+        <item itemvalue="Application.Run" />
+        <item itemvalue="Application.MobilMain" />
         <item itemvalue="Application.CreditRun" />
         <item itemvalue="Application.RunMyService" />
-        <item itemvalue="Application.RunTechnik" />
-        <item itemvalue="Application.BankomatCash" />
-        <item itemvalue="Application.kalkulaytor" />
       </list>
     </recent_temporary>
   </component>
@@ -311,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569101036687</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="zadanie 27 c dop">
+      <created>1569215297825</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1569215297825</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -347,7 +367,8 @@
     <MESSAGE value="zadanie 27" />
     <MESSAGE value="ANNOTACIYA" />
     <MESSAGE value="ANNOTACIYA 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="ANNOTACIYA 1" />
+    <MESSAGE value="zadanie 27 c dop" />
+    <option name="LAST_COMMIT_MESSAGE" value="zadanie 27 c dop" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
