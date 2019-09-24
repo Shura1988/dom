@@ -2,12 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3973629e-f0e3-469d-9557-657c7bda8d0f" name="Default Changelist" comment="Blinov stranica 146 zadanie 8">
+      <change afterPath="$PROJECT_DIR$/src/blinov/blueRayDisc/BlueRayDisc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blinov/blueRayDisc/DiscRun.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/box/Box.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/Abonent.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/MobilMain.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/too/Run.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/too/Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/city/blinov/CityRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/city/blinov/CityRun.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +66,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CityRun">
+  <component name="RunManager" selected="Application.DiscRun">
     <configuration name="CityRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="city.blinov.CityRun" />
       <module name="dom" />
@@ -83,6 +86,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="kreditcard.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="blinov.blueRayDisc.DiscRun" />
+      <module name="dom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="blinov.blueRayDisc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,20 +132,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunMyService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="annotation.RunMyService" />
-      <module name="dom" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DiscRun" />
         <item itemvalue="Application.CityRun" />
         <item itemvalue="Application.Run" />
         <item itemvalue="Application.MobilMain" />
         <item itemvalue="Application.CreditRun" />
-        <item itemvalue="Application.RunMyService" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +352,28 @@
       <option name="project" value="LOCAL" />
       <updated>1569269005880</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Blinov stranica 146 zadanie8">
+      <created>1569269550583</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1569269550583</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Blinov stranica 146 zadanie 8">
+      <created>1569302190933</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1569302190933</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Blinov stranica 146 zadanie8">
+      <created>1569302236870</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1569302236870</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -381,7 +411,8 @@
     <MESSAGE value="ANNOTACIYA 1" />
     <MESSAGE value="zadanie 27 c dop" />
     <MESSAGE value="Blinov stranica 146 zadanie 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Blinov stranica 146 zadanie 8" />
+    <MESSAGE value="Blinov stranica 146 zadanie8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Blinov stranica 146 zadanie8" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
