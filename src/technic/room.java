@@ -1,12 +1,13 @@
 package technic;
- class HomeAppliences implements Technik{
+
+class HomeAppliences implements Technik {
     protected String name;
-    protected String brand;
-    protected int  power;
+    protected Brand brand;
+    protected int power;
     protected boolean on;
     protected String naznachenie;
 
-    public HomeAppliences(String name, String brand, int power, boolean on, String naznachenie) {
+    public HomeAppliences(String name, Brand brand, int power, boolean on, String naznachenie) {
         this.name = name;
         this.brand = brand;
         this.power = power;
@@ -15,20 +16,19 @@ package technic;
     }
 
 
-   @Override
-    public void On(){
-//       System.out.println("Устройство  " + name + " Брэнд " + brand + " Его мощность " + power + "Включено" + On + "Предназначен для комнаты"+ naznachenie);
+    public void On() {
         on = true;
     }
-    public  void  Off(){
-      //  System.out.println("Устройство  " + name + " Брэнд " + brand + " Его мощность " + power + "ВЫключено" +
-      //          On + "Предназначен для комнаты"+ naznachenie);
+
+    public void Off() {
+
         on = false;
     }
-public  String toString(){
-    return "Устройство  " + name + "    Брэнд   " + brand + "   Его мощность   " + power + "Вт  " + "Вкл/Вкл  " +
-            on + "   Предназначен для комнаты   "+  "Назначение   " + naznachenie;
-}
+    @Override
+    public String toString() {
+        return "Устройство  " + name + "    Брэнд   " + brand + "   Его мощность   " + power + "Вт  " + "Вкл/Вкл  " +
+                on + "   Предназначен для комнаты   " + "Назначение   " + naznachenie;
+    }
 }
 
 
