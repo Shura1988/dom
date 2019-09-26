@@ -9,7 +9,7 @@ import java.util.List;
 
 public class Box {
     public static void main(String[] args) {
-        List<String> animals = new ArrayList<>();
+        List<Object> animals = new ArrayList<>();
         animals.add("cat");
         animals.add("dog");
         animals.add("mause");
