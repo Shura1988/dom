@@ -32,9 +32,9 @@ public class Met3Zadanie33 {
 
         Scanner sc1 = new Scanner(new FileInputStream(text));
         int count2= 0;
-        while (sc1.hasNext(("[.,;:()?!\"\\s]+ ")))
+        while (sc1.hasNext(("\\w+|[.,?!]+ ")))
         {
-            sc.next();
+            sc1.next();
             count2++;
         }
         System.out.println(count2);

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3973629e-f0e3-469d-9557-657c7bda8d0f" name="Default Changelist" comment="metodichka3 zadanie 31">
-      <change afterPath="$PROJECT_DIR$/src/Met3Zadanie33.java" afterDir="false" />
+    <list default="true" id="3973629e-f0e3-469d-9557-657c7bda8d0f" name="Default Changelist" comment="metodichka3 zadanie 33">
       <change afterPath="$PROJECT_DIR$/src/test/blinov/Abonent.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/MobilMain.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/too/Run.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/too/Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/dom/city/blinov/CityRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dom/city/blinov/CityRun.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Met3Zadanie33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Met3Zadanie33.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/blinov/blueRayDisc/DiscRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/blinov/blueRayDisc/DiscRun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/city/blinov/CityRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/city/blinov/CityRun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/zadanie31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zadanie31.java" afterDir="false" />
@@ -413,7 +413,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569520296288</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="metodichka3 zadanie 33">
+      <created>1569586026185</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1569586026185</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -430,7 +437,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="met2zadanie 20" />
     <MESSAGE value="met2zadanie 20 c доп" />
     <MESSAGE value="met2zadanie 22-23" />
     <MESSAGE value="met2zadanie 24" />
@@ -455,7 +461,8 @@
     <MESSAGE value="metodichka3 zadanie 31" />
     <MESSAGE value="metodichka3 zadanie 32" />
     <MESSAGE value="zadnie 28 dop" />
-    <option name="LAST_COMMIT_MESSAGE" value="zadnie 28 dop" />
+    <MESSAGE value="metodichka3 zadanie 33" />
+    <option name="LAST_COMMIT_MESSAGE" value="metodichka3 zadanie 33" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -468,7 +475,7 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Met3Zadanie33.java</url>
           <line>33</line>
-          <option name="timeStamp" value="4" />
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
