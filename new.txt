@@ -1,0 +1,3 @@
+The file, opens when the object is created. To do this, the designer may be
+passed the file name as a string, or an object of type File containing, a description
+required file. 
