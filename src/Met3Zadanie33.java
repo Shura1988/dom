@@ -6,39 +6,46 @@
 
 import java.io.*;
 import java.util.Scanner;
-import java.util.StringTokenizer;
 
 public class Met3Zadanie33 {
 
     public static void main(String[] args) throws IOException {
-        FileReader txt = new FileReader("new.txt");
-        int res = txt.read();
-        while (res != -1) {
-            System.out.print((char) res);
-            res = txt.read();
+
+        BufferedInputStream txt = new BufferedInputStream(new FileInputStream ("new.txt"));
+        try {
+            System.out.println(" Исходный текст: ");
+            int res = txt.read();
+            while (res != -1) {
+                System.out.print((char) res);
+                res = txt.read();
+            }
+            System.out.println();
+
+            File text = new File("new.txt");
+            Scanner sc = new Scanner(new FileInputStream(text));
+            int count = 0;
+            while (sc.hasNext()) {
+                sc.next();
+                count++;
+            }
+            System.out.println("Колличество слов в тексте: " + count);
+
+            int count2 = 0;
+            while (sc.hasNext("[.,!;:?]+")) {
+                sc.next(" ");
+                count2++;
+            }
+                System.out.println("Колличество знаков препинания: " + count2);
+
+               // System.out.println("нет знаков препинания");
+
+
+            sc.close();
+        } catch (IOException e) {
+            System.out.println(e);
         }
         txt.close();
-        System.out.println();
 
-         File text = new File("new.txt");
-        Scanner sc = new Scanner(new FileInputStream(text));
-        int count = 0;
-        while (sc.hasNext()) {
-            sc.next();
-            count++;
-        }
-        System.out.println(count);
-        sc.close();
-
-        Scanner sc1 = new Scanner(new FileInputStream(text));
-        int count2= 0;
-        while (sc1.hasNext(("\\w+|[.,?!]+ ")))
-        {
-            sc1.next();
-            count2++;
-        }
-        System.out.println(count2);
-        sc1.close();
     }
 }
 

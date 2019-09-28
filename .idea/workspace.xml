@@ -7,7 +7,6 @@
       <change afterPath="$PROJECT_DIR$/src/test/blinov/too/Run.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/too/Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/dom/city/blinov/CityRun.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dom/city/blinov/CityRun.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Met3Zadanie33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Met3Zadanie33.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/blinov/blueRayDisc/DiscRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/blinov/blueRayDisc/DiscRun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/city/blinov/CityRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/city/blinov/CityRun.java" afterDir="false" />
@@ -420,7 +419,28 @@
       <option name="project" value="LOCAL" />
       <updated>1569586026185</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="metodichka3 zadanie 33 sdop">
+      <created>1569589476582</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1569589476582</updated>
+    </task>
+    <task id="LOCAL-00042" summary="metodichka3 zadanie 33">
+      <created>1569589518756</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1569589518756</updated>
+    </task>
+    <task id="LOCAL-00043" summary=" txt">
+      <created>1569608163645</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1569608163645</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -437,8 +457,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="met2zadanie 20 c доп" />
-    <MESSAGE value="met2zadanie 22-23" />
     <MESSAGE value="met2zadanie 24" />
     <MESSAGE value="met2zadanie 24 c dopolneniem" />
     <MESSAGE value="met2zadanie 25" />
@@ -461,8 +479,10 @@
     <MESSAGE value="metodichka3 zadanie 31" />
     <MESSAGE value="metodichka3 zadanie 32" />
     <MESSAGE value="zadnie 28 dop" />
+    <MESSAGE value="metodichka3 zadanie 33 sdop" />
     <MESSAGE value="metodichka3 zadanie 33" />
-    <option name="LAST_COMMIT_MESSAGE" value="metodichka3 zadanie 33" />
+    <MESSAGE value=" txt" />
+    <option name="LAST_COMMIT_MESSAGE" value=" txt" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -471,11 +491,6 @@
           <url>file://$PROJECT_DIR$/src/zadanie2223.java</url>
           <line>27</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Met3Zadanie33.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
