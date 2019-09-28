@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3973629e-f0e3-469d-9557-657c7bda8d0f" name="Default Changelist" comment="metodichka3 zadanie 33">
+      <change afterPath="$PROJECT_DIR$/src/met3zadanie34.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/Abonent.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/MobilMain.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/too/Run.java" afterDir="false" />
@@ -440,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569608163645</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="metodichka3 zadanie 33 dop">
+      <created>1569648513488</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1569648513488</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -457,7 +465,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="met2zadanie 24" />
     <MESSAGE value="met2zadanie 24 c dopolneniem" />
     <MESSAGE value="met2zadanie 25" />
     <MESSAGE value="met2zadanie 25 c 1 dop" />
@@ -482,7 +489,8 @@
     <MESSAGE value="metodichka3 zadanie 33 sdop" />
     <MESSAGE value="metodichka3 zadanie 33" />
     <MESSAGE value=" txt" />
-    <option name="LAST_COMMIT_MESSAGE" value=" txt" />
+    <MESSAGE value="metodichka3 zadanie 33 dop" />
+    <option name="LAST_COMMIT_MESSAGE" value="metodichka3 zadanie 33 dop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

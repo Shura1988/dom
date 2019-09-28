@@ -10,9 +10,9 @@ import java.util.Scanner;
 public class Met3Zadanie33 {
 
     public static void main(String[] args) throws IOException {
-
-        BufferedInputStream txt = new BufferedInputStream(new FileInputStream ("new.txt"));
         try {
+        BufferedInputStream txt = new BufferedInputStream(new FileInputStream ("new.txt"));
+
             System.out.println(" Исходный текст: ");
             int res = txt.read();
             while (res != -1) {
@@ -41,10 +41,11 @@ public class Met3Zadanie33 {
 
 
             sc.close();
+            txt.close();
         } catch (IOException e) {
             System.out.println(e);
         }
-        txt.close();
+
 
     }
 }
