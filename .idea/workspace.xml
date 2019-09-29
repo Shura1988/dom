@@ -7,8 +7,6 @@
       <change afterPath="$PROJECT_DIR$/src/test/blinov/too/Run.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/too/Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chisla.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chisla.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Met3Zadanie33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Met3Zadanie33.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Zadanie32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zadanie32.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/blinov/blueRayDisc/DiscRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/blinov/blueRayDisc/DiscRun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/city/blinov/CityRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/city/blinov/CityRun.java" afterDir="false" />
@@ -70,7 +68,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Met3Zadanie33">
+  <component name="RunManager" selected="Application.met3zadanie34">
     <configuration name="Box" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="box.Box" />
       <module name="dom" />
@@ -120,8 +118,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Met3Zadanie33" />
         <item itemvalue="Application.met3zadanie34" />
+        <item itemvalue="Application.Met3Zadanie33" />
         <item itemvalue="Application.BoxRun" />
         <item itemvalue="Application.Zadanie32" />
         <item itemvalue="Application.Box" />
@@ -471,7 +469,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569702516122</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="metodichka 3 zadanie 33!">
+      <created>1569759175059</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1569759175059</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -488,7 +493,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="met2zadanie 25 c 1 dop" />
     <MESSAGE value="met2zadanie 25 c 2 dop" />
     <MESSAGE value="zadanie 26 nugns pomosch..(" />
     <MESSAGE value="26 vrode rabotaet" />
@@ -513,7 +517,8 @@
     <MESSAGE value="metodichka3 zadanie 33 dop" />
     <MESSAGE value="metodichka3 zadanie 34" />
     <MESSAGE value="Zadanie 28 ispravleno" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zadanie 28 ispravleno" />
+    <MESSAGE value="metodichka 3 zadanie 33!" />
+    <option name="LAST_COMMIT_MESSAGE" value="metodichka 3 zadanie 33!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -1,39 +1,59 @@
 /*Имеется файл с текстом, в котором присутствуют числа. Найти все числа,
 распечатать, посчитать сумму, убрать все повторяющиеся числа и снова
 распечатать.*/
+
 import java.io.*;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.util.*;
 
 public class met3zadanie34 {
-    public static void main(String[] args) throws FileNotFoundException {
+    public static void main(String[] args) throws IOException {
+
         try {
-            File txt = new File("chisla.txt");
-            Scanner scanner = new Scanner(txt);
-            String line = scanner.nextLine();
-            String[] number = line.split(" ");
-            int[] mass = new int[number.length];
-            int i=0;
-            int summ = 0;
-            for (String numbers : number) {
-                mass[i++] = Integer.parseInt(numbers);
-                summ +=Integer.parseInt(numbers);
+            String s = "";
+            Scanner sc = new Scanner(new File("chisla.txt"));
+            while ((sc.hasNext())) {
+                s += sc.nextLine() + "\r\n";
             }
-            System.out.println(" Массив значений" + Arrays.toString(mass));
-            System.out.println("Сумма всех значений " + summ);
-            System.out.println();
+            System.out.println("Исхоный текст : ");
+            System.out.println(s);
+            sc.close();
+            String[] number = s.split(" ");
 
-            ArrayList points = new ArrayList(Arrays.asList(number));
-            Set<Integer> point = new HashSet(points);
-            points.clear();
-            points.addAll(point);
-            System.out.println("Удаляем повторяющиеся числа  и выводим новый массив: " + point);
-            scanner.close();
-        } catch (FileNotFoundException e) {
-            System.out.println("Файл не найден");
+            s = s.replaceAll("[^0-9]+", " ");
+            List<String> list = new ArrayList<>(Arrays.asList(s.trim().split(" ")));
+            ArrayList<Integer> numberList = new ArrayList<>();
+            for (String numbers : list) {
+                numberList.add(Integer.parseInt(numbers));
+            }
+            System.out.println("Числа из текста: " + numberList);
+            int sum = 0;
+            for (int i = 0; i < numberList.size(); i++) {
+                sum += numberList.get(i);
+            }
+            System.out.println("Сумма чискл: " + sum);
+            Set<Integer> set = new HashSet<>(numberList);
+            numberList.clear();
+            numberList.addAll(set);
+            System.out.println("Удаляем повторяющиеся числа : " + set);
 
+
+        } catch (IOException e) {
+            System.out.println(e);
         }
     }
 }
+
+
+
+
+
+
+
+
+
+
 
 
 
