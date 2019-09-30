@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3973629e-f0e3-469d-9557-657c7bda8d0f" name="Default Changelist" comment="metodichka3 zadanie 34">
+      <change afterPath="$PROJECT_DIR$/src/animal/Animals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animal/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animal/DogRunr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animal/Puppy.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/Abonent.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/MobilMain.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/too/Run.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/too/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Zadanie32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zadanie32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/blinov/blueRayDisc/DiscRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/blinov/blueRayDisc/DiscRun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/city/blinov/CityRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/city/blinov/CityRun.java" afterDir="false" />
     </list>
@@ -65,13 +69,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Zadznie36">
-    <configuration name="BoxRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="box.BoxRun" />
+  <component name="RunManager" selected="Application.DogRunr">
+    <configuration name="DogRunr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="animal.DogRunr" />
       <module name="dom" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="box.*" />
+          <option name="PATTERN" value="animal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DogRunr" />
         <item itemvalue="Application.Zadznie36" />
         <item itemvalue="Application.Zadanie35" />
         <item itemvalue="Application.met3zadanie34" />
         <item itemvalue="Application.Met3Zadanie33" />
-        <item itemvalue="Application.BoxRun" />
       </list>
     </recent_temporary>
   </component>
@@ -130,13 +134,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568189501351</updated>
-    </task>
-    <task id="LOCAL-00004" summary="metodichka 2: zadanie 21">
-      <created>1568239431598</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1568239431598</updated>
     </task>
     <task id="LOCAL-00005" summary="zadanie 19 c dorabotkoy">
       <created>1568240523190</created>
@@ -474,7 +471,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569827096178</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="metodichka3 zadanie 36">
+      <created>1569827124958</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1569827124958</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
