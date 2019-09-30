@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3973629e-f0e3-469d-9557-657c7bda8d0f" name="Default Changelist" comment="metodichka3 zadanie 34">
-      <change afterPath="$PROJECT_DIR$/src/Zadznie36.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/Abonent.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/MobilMain.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/too/Run.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/too/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Zadanie32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zadanie32.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/blinov/blueRayDisc/DiscRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/blinov/blueRayDisc/DiscRun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/city/blinov/CityRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/city/blinov/CityRun.java" afterDir="false" />
@@ -132,13 +130,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568189501351</updated>
-    </task>
-    <task id="LOCAL-00003" summary="metodichka 2: zadanie 18">
-      <created>1568234425557</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1568234425557</updated>
     </task>
     <task id="LOCAL-00004" summary="metodichka 2: zadanie 21">
       <created>1568239431598</created>
@@ -476,7 +467,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569825658662</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="metodichka3 zadanie 36">
+      <created>1569827096178</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1569827096178</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -493,7 +491,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="26 vrode rabotaet" />
     <MESSAGE value="26" />
     <MESSAGE value="zadanie 27" />
     <MESSAGE value="ANNOTACIYA" />
@@ -518,7 +515,8 @@
     <MESSAGE value="metodichka3 zadanie 34 c dorabotkoy" />
     <MESSAGE value="metodichka3 zadanie 34" />
     <MESSAGE value="metodichka3 zadanie 35" />
-    <option name="LAST_COMMIT_MESSAGE" value="metodichka3 zadanie 35" />
+    <MESSAGE value="metodichka3 zadanie 36" />
+    <option name="LAST_COMMIT_MESSAGE" value="metodichka3 zadanie 36" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

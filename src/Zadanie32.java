@@ -8,13 +8,13 @@ public class Zadanie32 {
         String tecst = "ученье свет, а не ученье - тьма";
         String[] stroka = tecst.split(" ");
         String j;
-        System.out.print("Исходная строка : ");
-        for (int i = 0; i < stroka.length; i++) {
-            j = stroka[i];
-            System.out.print(j + " ");
-        }
+        System.out.print("Исходная строка : " + tecst);
+       /* for (int i = 0; i < stroka.length; i++) {
+           j = stroka[i];
+            System.out.print(j + " ");*/
+       // }
 
-        System.out.println();
+       // System.out.println();
         HashMap<String, Integer> map = new HashMap<>();
         int count;
         for (int i = 0; i < stroka.length; i++) {
