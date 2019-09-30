@@ -5,9 +5,8 @@
 
 import java.util.*;
 
-public class zadanie31 {
+public class Zadanie31 {
     public static void main(String[] args) {
-        int max;
         Integer[] mass = new Integer[10];
         Random random = new Random();
         for (int i = 0; i < mass.length; i++) {

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3973629e-f0e3-469d-9557-657c7bda8d0f" name="Default Changelist" comment="metodichka3 zadanie 34">
+      <change afterPath="$PROJECT_DIR$/src/Zadanie35.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/Abonent.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/MobilMain.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/too/Run.java" afterDir="false" />
@@ -10,7 +11,6 @@
       <change beforePath="$PROJECT_DIR$/src/Zadanie32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zadanie32.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/blinov/blueRayDisc/DiscRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/blinov/blueRayDisc/DiscRun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/city/blinov/CityRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/city/blinov/CityRun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/met3zadanie34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/met3zadanie34.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/zadanie31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zadanie31.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,20 +68,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.met3zadanie34">
-    <configuration name="Box" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="box.Box" />
-      <module name="dom" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="box.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Zadanie35">
     <configuration name="BoxRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="box.BoxRun" />
       <module name="dom" />
@@ -109,6 +96,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Zadanie35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Zadanie35" />
+      <module name="dom" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="met3zadanie34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="met3zadanie34" />
       <module name="dom" />
@@ -118,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Zadanie35" />
         <item itemvalue="Application.met3zadanie34" />
         <item itemvalue="Application.Met3Zadanie33" />
         <item itemvalue="Application.BoxRun" />
         <item itemvalue="Application.Zadanie32" />
-        <item itemvalue="Application.Box" />
       </list>
     </recent_temporary>
   </component>
@@ -139,13 +133,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568189501351</updated>
-    </task>
-    <task id="LOCAL-00001" summary="metodichka 2: zadanie 18">
-      <created>1568190015263</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1568190015263</updated>
     </task>
     <task id="LOCAL-00002" summary="metodichka 2: zadanie 19">
       <created>1568201598834</created>
@@ -476,7 +463,21 @@
       <option name="project" value="LOCAL" />
       <updated>1569759175059</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="metodichka3 zadanie 34 c dorabotkoy">
+      <created>1569791789518</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1569791789518</updated>
+    </task>
+    <task id="LOCAL-00050" summary="metodichka3 zadanie 34">
+      <created>1569791839907</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1569791839908</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -493,7 +494,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="met2zadanie 25 c 2 dop" />
     <MESSAGE value="zadanie 26 nugns pomosch..(" />
     <MESSAGE value="26 vrode rabotaet" />
     <MESSAGE value="26" />
@@ -515,10 +515,11 @@
     <MESSAGE value="metodichka3 zadanie 33" />
     <MESSAGE value=" txt" />
     <MESSAGE value="metodichka3 zadanie 33 dop" />
-    <MESSAGE value="metodichka3 zadanie 34" />
     <MESSAGE value="Zadanie 28 ispravleno" />
     <MESSAGE value="metodichka 3 zadanie 33!" />
-    <option name="LAST_COMMIT_MESSAGE" value="metodichka 3 zadanie 33!" />
+    <MESSAGE value="metodichka3 zadanie 34 c dorabotkoy" />
+    <MESSAGE value="metodichka3 zadanie 34" />
+    <option name="LAST_COMMIT_MESSAGE" value="metodichka3 zadanie 34" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
