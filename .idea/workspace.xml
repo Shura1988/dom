@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3973629e-f0e3-469d-9557-657c7bda8d0f" name="Default Changelist" comment="metodichka3 zadanie 34">
-      <change afterPath="$PROJECT_DIR$/src/BlinovStr248.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Blinovstr249/Str249.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Blinovstr249/zadanie4.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/Abonent.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/MobilMain.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/too/Run.java" afterDir="false" />
@@ -49,6 +50,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Blinovstr249" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="animal" />
       <recent name="metodichka3.zadanie29" />
@@ -68,7 +72,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BlinovStr248">
+  <component name="RunManager" selected="Application.Str249">
     <configuration name="BlinovStr248" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BlinovStr248" />
       <module name="dom" />
@@ -89,9 +93,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadanie35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadanie35" />
+    <configuration name="Str249" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Blinovstr249.Str249" />
       <module name="dom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Blinovstr249.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,20 +113,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="met3zadanie34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="met3zadanie34" />
+    <configuration name="zadanie4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Blinovstr249.zadanie4" />
       <module name="dom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Blinovstr249.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Str249" />
+        <item itemvalue="Application.zadanie4" />
         <item itemvalue="Application.BlinovStr248" />
         <item itemvalue="Application.DogRunr" />
         <item itemvalue="Application.Zadznie36" />
-        <item itemvalue="Application.Zadanie35" />
-        <item itemvalue="Application.met3zadanie34" />
       </list>
     </recent_temporary>
   </component>
@@ -133,13 +149,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568189501351</updated>
-    </task>
-    <task id="LOCAL-00006" summary="met2zadanie 19 c dorabotkoy">
-      <created>1568268046884</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1568268046885</updated>
     </task>
     <task id="LOCAL-00007" summary="met2zadanie 20">
       <created>1568362058767</created>
@@ -477,7 +486,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569832764350</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Blinov str248">
+      <created>1569842570725</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1569842570726</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -494,7 +510,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="zadanie 27" />
     <MESSAGE value="ANNOTACIYA" />
     <MESSAGE value="ANNOTACIYA 1" />
     <MESSAGE value="zadanie 27 c dop" />
@@ -519,7 +534,8 @@
     <MESSAGE value="metodichka3 zadanie 35" />
     <MESSAGE value="metodichka3 zadanie 36" />
     <MESSAGE value="Blinov Exeption" />
-    <option name="LAST_COMMIT_MESSAGE" value="Blinov Exeption" />
+    <MESSAGE value="Blinov str248" />
+    <option name="LAST_COMMIT_MESSAGE" value="Blinov str248" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
