@@ -5,5 +5,7 @@ public class DiscRun {
         System.out.println( " Enter name disc ");
         BlueRayDisc disk = new BlueRayDisc();
         disk.info.DiscInfo();
+
+
     }
 }

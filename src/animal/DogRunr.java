@@ -10,7 +10,7 @@ public class DogRunr {
         Animals Palkan = new Dog(5, "Palkan");
 
         List<Animals> animals = new ArrayList<>();
-        //animals.add(Lord);
+       // animals.add(Lord);
       //  animals.add(Boss);
         animals.add(Palkan);
 

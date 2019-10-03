@@ -43,7 +43,7 @@ public class Electrotechic {
     public static void main(String[] args) {
         try {
             DocumentBuilder catalog = DocumentBuilderFactory.newInstance().newDocumentBuilder();
-            Document doc = catalog.parse("Electro.xsd");
+            Document doc = catalog.parse("Electro.xml");
             Node root = doc.getDocumentElement();
 
             System.out.println("List Electroinstrument :");
