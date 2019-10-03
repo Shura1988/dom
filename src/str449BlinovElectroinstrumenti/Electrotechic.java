@@ -46,7 +46,7 @@ public class Electrotechic {
             Document doc = catalog.parse("Electro.xml");
             Node root = doc.getDocumentElement();
 
-            System.out.println("List Electroinstrument :");
+            System.out.println("List Electroinstrument : " );
            // System.out.println();
             NodeList electroTecnics = root.getChildNodes();
             for (int i = 0; i < electroTecnics.getLength(); i++) {
