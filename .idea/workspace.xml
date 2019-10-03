@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3973629e-f0e3-469d-9557-657c7bda8d0f" name="Default Changelist" comment="metodichka3 zadanie 34">
-      <change afterPath="$PROJECT_DIR$/src/Blinovstr249/Str249.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Blinovstr249/zadanie4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Electro.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/str449BlinovElectroinstrumenti/Electro.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/str449BlinovElectroinstrumenti/Electrotechic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/str449BlinovElectroinstrumenti/XSDExample.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/Abonent.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/MobilMain.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/blinov/too/Run.java" afterDir="false" />
@@ -28,6 +30,7 @@
         <option value="Interface" />
         <option value="AnnotationType" />
         <option value="Enum" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -48,8 +51,16 @@
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last.edited.regexp" value="Sample Text" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\DBelhard\dom" />
+      <recent name="D:\DBelhard\dom\src" />
+      <recent name="D:\DBelhard\dom\src\str449BlinovElectroinstrumenti" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Blinovstr249" />
     </key>
@@ -72,7 +83,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Str249">
+  <component name="RunManager" selected="Application.XSDExample">
     <configuration name="BlinovStr248" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BlinovStr248" />
       <module name="dom" />
@@ -80,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DogRunr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="animal.DogRunr" />
+    <configuration name="Electrotechic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="str449BlinovElectroinstrumenti.Electrotechic" />
       <module name="dom" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="animal.*" />
+          <option name="PATTERN" value="str449BlinovElectroinstrumenti.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,9 +117,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zadznie36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Zadznie36" />
+    <configuration name="XSDExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="str449BlinovElectroinstrumenti.XSDExample" />
       <module name="dom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="str449BlinovElectroinstrumenti.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -128,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.XSDExample" />
+        <item itemvalue="Application.Electrotechic" />
         <item itemvalue="Application.Str249" />
         <item itemvalue="Application.zadanie4" />
         <item itemvalue="Application.BlinovStr248" />
-        <item itemvalue="Application.DogRunr" />
-        <item itemvalue="Application.Zadznie36" />
       </list>
     </recent_temporary>
   </component>
@@ -149,13 +166,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568189501351</updated>
-    </task>
-    <task id="LOCAL-00007" summary="met2zadanie 20">
-      <created>1568362058767</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1568362058786</updated>
     </task>
     <task id="LOCAL-00008" summary="met2zadanie 20 c доп">
       <created>1568362202271</created>
@@ -493,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569842570726</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="dop Blinov str 249">
+      <created>1569913268676</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1569913268676</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -510,7 +527,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="ANNOTACIYA" />
     <MESSAGE value="ANNOTACIYA 1" />
     <MESSAGE value="zadanie 27 c dop" />
     <MESSAGE value="Blinov stranica 146 zadanie 8" />
@@ -535,7 +551,8 @@
     <MESSAGE value="metodichka3 zadanie 36" />
     <MESSAGE value="Blinov Exeption" />
     <MESSAGE value="Blinov str248" />
-    <option name="LAST_COMMIT_MESSAGE" value="Blinov str248" />
+    <MESSAGE value="dop Blinov str 249" />
+    <option name="LAST_COMMIT_MESSAGE" value="dop Blinov str 249" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

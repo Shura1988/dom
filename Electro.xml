@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+
+<PowerTool>
+    <Tool>
+        <Model>Дрель-шуруповерт : Bosh GSR 18-2-LI</Model>
+        <Handi>Одноручный</Handi>
+        <Origin>Germany</Origin>
+        <Manual>
+            <Energy_consumption>Небольшое</Energy_consumption>
+            <Power>18Vt</Power>
+            <Time_working>10h</Time_working>
+        </Manual>
+        <Material>Plastoc-metal</Material>
+    </Tool>
+
+    <Tool>
+        <Model>Угловая шлифмашинка : Makita 9562 CVH</Model>
+        <Handi>Двуручный</Handi>
+        <Origin>Japan</Origin>
+        <Manual>
+            <Energy_consumption>Среднее</Energy_consumption>
+            <Power>1200Vt</Power>
+            <Time_working>24h</Time_working>
+        </Manual>
+        <Material>Plastic-metal</Material>
+    </Tool>
+
+    <Tool>
+        <Model>Шуруповерт Patriot BR 114LI</Model>
+        <Handi>Одноручный</Handi>
+        <Origin>China</Origin>
+        <Manual>
+            <Energy_consumption>Большое</Energy_consumption>
+            <Power>12V</Power>
+            <Time_working>1h</Time_working>
+        </Manual>
+        <Material>Plastic</Material>
+    </Tool>
+</PowerTool>
