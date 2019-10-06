@@ -170,13 +170,6 @@
       <option name="presentableId" value="Default" />
       <updated>1568189501351</updated>
     </task>
-    <task id="LOCAL-00013" summary="met2zadanie 24">
-      <created>1568534022087</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1568534022087</updated>
-    </task>
     <task id="LOCAL-00014" summary="met2zadanie 24 c dopolneniem">
       <created>1568558044950</created>
       <option name="number" value="00014" />
@@ -513,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570188409358</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="PotokiBlinov339 c dop">
+      <created>1570338578173</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1570338578174</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -530,7 +530,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Blinov stranica 146 zadanie8" />
     <MESSAGE value="Blinov stranica 146 zadanie 9" />
     <MESSAGE value="technic + enum" />
     <MESSAGE value="zadanie 28 metodichka 2" />
@@ -555,7 +554,8 @@
     <MESSAGE value="Blinov str449" />
     <MESSAGE value="str449 BlinovElectroinstrument" />
     <MESSAGE value="PotokiBlinov339" />
-    <option name="LAST_COMMIT_MESSAGE" value="PotokiBlinov339" />
+    <MESSAGE value="PotokiBlinov339 c dop" />
+    <option name="LAST_COMMIT_MESSAGE" value="PotokiBlinov339 c dop" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
