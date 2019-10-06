@@ -4,11 +4,9 @@ package PotokiBlinov339;
         биль не станет ждать больше определенного времени и уедет на другую
         стоянку.*/
 
-
 public class Parcovka extends Thread {
-    public Thread thread; //имя потока(название авто)
-    public String nameTread;
-    public static int parcingpoin = 5;
+    private String nameTread;
+    private static int parcingpoin = 3;
     int time = (int) (Math.random() * 1000);
 
     public Parcovka(String nameTread) {
@@ -39,23 +37,36 @@ public class Parcovka extends Thread {
                 parcingpoin--;
                 System.out.println("  Car  " + nameTread + "   Stand in parcingpoint ");
                 Thread.sleep(time);
-                parcingpoin++;
-                System.out.println(" Car " + nameTread + "  Left in  parkingpoint ");
+                //parcingpoin++;
+                //System.out.println(" Car " + nameTread + "  Left in  parkingpoint ");
+
             } catch (InterruptedException e) {
                 System.out.println(e);
             }
-//            parcingpoin++;
-//            System.out.println("Car  " + nameTread + "  Exit in parkingpoint");
-        }else {
-            System.out.println("Car  " + nameTread +" no parking point, car go");
+            parcingpoin++;
+            System.out.println("Car  " + nameTread + "  Exit in parkingpoint");
+        } else {
+            System.out.println("Car  " + nameTread + " no parking point, car go");
 
         }
     }
 
-    public void start() {
-        if (thread == null) {
-            thread = new Thread(this, nameTread);
-            thread.start();
-        }
+
+   /* public String getNameTread() {
+        return nameTread;
     }
+
+    public void setNameTread(String nameTread) {
+        this.nameTread = nameTread;
+    }
+
+    public static int getParcingpoin() {
+        return parcingpoin;
+    }
+
+    public static void setParcingpoin(int parcingpoin) {
+        Parcovka.parcingpoin = parcingpoin;
+    }*/
+
 }
+

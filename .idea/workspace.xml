@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3973629e-f0e3-469d-9557-657c7bda8d0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/PotokiBlinov339/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PotokiBlinov339/Parcovka.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PotokiBlinov339/ParcovkaRun.java" afterDir="false" />
+    <list default="true" id="3973629e-f0e3-469d-9557-657c7bda8d0f" name="Default Changelist" comment="str449 BlinovElectroinstrument">
       <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Electro.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Electro.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/dom/str449BlinovElectroinstrumenti/Electrotechic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dom/str449BlinovElectroinstrumenti/Electrotechic.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/dom/str449BlinovElectroinstrumenti/XSDExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dom/str449BlinovElectroinstrumenti/XSDExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PotokiBlinov339/Parcovka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PotokiBlinov339/Parcovka.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PotokiBlinov339/ParcovkaRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PotokiBlinov339/ParcovkaRun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/str449BlinovElectroinstrumenti/Electrotechic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/str449BlinovElectroinstrumenti/Electrotechic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/str449BlinovElectroinstrumenti/XSDExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/str449BlinovElectroinstrumenti/XSDExample.java" afterDir="false" />
     </list>
@@ -25,11 +24,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="AnnotationType" />
         <option value="FxmlFile" />
         <option value="Class" />
         <option value="Enum" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -170,13 +169,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568189501351</updated>
-    </task>
-    <task id="LOCAL-00012" summary="met2zadanie 22-23">
-      <created>1568404554963</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1568404554964</updated>
     </task>
     <task id="LOCAL-00013" summary="met2zadanie 24">
       <created>1568534022087</created>
@@ -514,7 +506,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570108273835</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="PotokiBlinov339">
+      <created>1570188409337</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1570188409358</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -531,7 +530,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Blinov stranica 146 zadanie 8" />
     <MESSAGE value="Blinov stranica 146 zadanie8" />
     <MESSAGE value="Blinov stranica 146 zadanie 9" />
     <MESSAGE value="technic + enum" />
@@ -556,7 +554,8 @@
     <MESSAGE value="dop Blinov str 249" />
     <MESSAGE value="Blinov str449" />
     <MESSAGE value="str449 BlinovElectroinstrument" />
-    <option name="LAST_COMMIT_MESSAGE" value="str449 BlinovElectroinstrument" />
+    <MESSAGE value="PotokiBlinov339" />
+    <option name="LAST_COMMIT_MESSAGE" value="PotokiBlinov339" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
