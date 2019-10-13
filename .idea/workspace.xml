@@ -2,12 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3973629e-f0e3-469d-9557-657c7bda8d0f" name="Default Changelist" comment="str449 BlinovElectroinstrument">
+      <change afterPath="$PROJECT_DIR$/FINAL PRODGECT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FINAL PRODGECT.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/BookAuthor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/Connect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/GenreBooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/RunLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/library/library.sql" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Electro.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Electro.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINAL PRODGECT/FINAL PRODGECT.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINAL PRODGECT/src/library/Author.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINAL PRODGECT/src/library/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINAL PRODGECT/src/library/BookAuthor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINAL PRODGECT/src/library/Connect.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINAL PRODGECT/src/library/GenreBooks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINAL PRODGECT/src/library/RunLibrary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FINAL PRODGECT/src/library/library.sql" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/dom/str449BlinovElectroinstrumenti/Electrotechic.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dom/str449BlinovElectroinstrumenti/Electrotechic.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/dom/str449BlinovElectroinstrumenti/XSDExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/dom/str449BlinovElectroinstrumenti/XSDExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PotokiBlinov339/Parcovka.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PotokiBlinov339/Parcovka.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PotokiBlinov339/ParcovkaRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PotokiBlinov339/ParcovkaRun.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/str449BlinovElectroinstrumenti/Electrotechic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/str449BlinovElectroinstrumenti/Electrotechic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/str449BlinovElectroinstrumenti/XSDExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/str449BlinovElectroinstrumenti/XSDExample.java" afterDir="false" />
@@ -26,9 +44,9 @@
       <list>
         <option value="AnnotationType" />
         <option value="FxmlFile" />
-        <option value="Class" />
         <option value="Enum" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -36,7 +54,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QgPw4FmH2SS8oaKVqPakhAQBgv" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
@@ -47,7 +65,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last.edited.regexp" value="Sample Text" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test/src/Tesc.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -80,7 +98,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ParcovkaRun">
+  <component name="RunManager" selected="Application.test1">
     <configuration name="Electrotechic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="str449BlinovElectroinstrumenti.Electrotechic" />
       <module name="dom" />
@@ -100,19 +118,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="PotokiBlinov339.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Str249" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Blinovstr249.Str249" />
-      <module name="dom" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Blinovstr249.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,13 +151,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test1" />
+      <module name="dom" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ParcovkaRun" />
+        <item itemvalue="Application.test1" />
         <item itemvalue="Application.Electrotechic" />
+        <item itemvalue="Application.ParcovkaRun" />
         <item itemvalue="Application.TimeRun" />
         <item itemvalue="Application.XSDExample" />
-        <item itemvalue="Application.Str249" />
       </list>
     </recent_temporary>
   </component>
@@ -169,13 +181,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568189501351</updated>
-    </task>
-    <task id="LOCAL-00014" summary="met2zadanie 24 c dopolneniem">
-      <created>1568558044950</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1568558044950</updated>
     </task>
     <task id="LOCAL-00015" summary="met2zadanie 25">
       <created>1568702422005</created>
@@ -513,7 +518,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570338578174</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="potokiBlinov 339 semafor, predidyschaya versiya zacomrnchena">
+      <created>1570342046740</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1570342046740</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -530,7 +542,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Blinov stranica 146 zadanie 9" />
     <MESSAGE value="technic + enum" />
     <MESSAGE value="zadanie 28 metodichka 2" />
     <MESSAGE value="metodichka 2 zadanie 28." />
@@ -555,7 +566,8 @@
     <MESSAGE value="str449 BlinovElectroinstrument" />
     <MESSAGE value="PotokiBlinov339" />
     <MESSAGE value="PotokiBlinov339 c dop" />
-    <option name="LAST_COMMIT_MESSAGE" value="PotokiBlinov339 c dop" />
+    <MESSAGE value="potokiBlinov 339 semafor, predidyschaya versiya zacomrnchena" />
+    <option name="LAST_COMMIT_MESSAGE" value="potokiBlinov 339 semafor, predidyschaya versiya zacomrnchena" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -564,6 +576,11 @@
           <url>file://$PROJECT_DIR$/src/zadanie2223.java</url>
           <line>27</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test1.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
